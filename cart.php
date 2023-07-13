@@ -26,6 +26,7 @@ loginCheck();
     <header>
             <div class="header">
                 <div class="heåader_post"><a class="header_post_link" href="post.php">追加する</a></div>
+                <a class="logout" href="logout.php">ログアウト</a>
             </div>
     </header>
     <!-- Head[End] -->
