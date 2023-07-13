@@ -48,6 +48,30 @@ border-spacing: 0;
 }
 /* ここまでは書式のリセット */
 
+.header{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-left: 80px;
+	margin-right: 80px;
+}
+
+.logout{
+	text-decoration: none;
+	font-weight:bold;
+	font-size: 16px;
+	font-family: 游ゴシック体;
+	color: #566270;
+	display: inline-block;
+	transition:.3s;
+	}
+
+.logout:hover{
+		font-weight:bold;
+		color: #fff !important;/*ホバー時の文字色*/
+		background-color: #566270;/*背景色*/
+	}
+
 
 a.header_post_link {
 	display: flex;
