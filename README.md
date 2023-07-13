@@ -1,7 +1,7 @@
 # 課題9 -フォーム4-
 
 ## 紹介と使い方
-  - 前回提出した画像投稿アプリ https://github.com/yukari-R/kadai09__php/tree/main
+  - 前回提出した画像投稿アプリ https://github.com/yukari-R/kadai09_php/tree/main
   - にユーザーログイン機能と管理者ログイン機能を追加しました
 
 ## 工夫した点
